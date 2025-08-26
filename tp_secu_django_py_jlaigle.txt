@@ -22,3 +22,7 @@ Etape 7: Headers sécurisé
     SAMEORIGIN → le site peut être dans un iframe seulement sur ton propre domaine.
 
     Cela empêche les attaques où un site tiers essaierait de te tromper pour cliquer sur quelque chose de dangereux.
+
+Etape 8: Content Seucurity Policy
+    Après le test que voyez vous dans la console
+        - j'ai une erreur qui me dit Content-Security-Policy : Les paramètres de la page ont empêché l’exécution d’un script intégré (script-src-elem) car il enfreint la directive suivante : « script-src 'self' ». Envisagez d’utiliser une empreinte (« sha256-JYtB2qaxzL3oQZw2p7NvcjhlzoK4Mmd5I/0pH2xOM5E= ») ou un nonce.
