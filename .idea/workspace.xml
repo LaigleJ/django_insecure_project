@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/django_insecure_project" beforeDir="false" afterPath="$PROJECT_DIR$/django_insecure_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp_secu_django_py_jlaigle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tp_secu_django_py_jlaigle.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/django_insecure_project" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -42,7 +41,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
