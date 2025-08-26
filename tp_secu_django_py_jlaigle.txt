@@ -6,3 +6,7 @@ Question:
         - SECURE_SSL_REDIRECT: la redirection automatique vers https n'est pas activé
         - SECRET_KEY: ma secret key est trop simple
         - DEBUG = TRUE: ne pas mettre True en prod pour éviter de montrer les informations détaillées en cas d'erreur
+
+Etape 4: Configuration Dev/Prod
+    Pourquoi DEBUG doit-il être False en production?
+        - DEBUG doit être a false pour des questions de sécurité, pour que les utilisateurs n'aient pas accés aux données sensibles de l'application via la console

@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f42a0039-ee71-4598-83af-d92ae98bab88" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/django_insecure_project/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_insecure_project" beforeDir="false" afterPath="$PROJECT_DIR$/django_insecure_project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_insecure_project/django_insecure_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_secu_django_py_jlaigle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tp_secu_django_py_jlaigle.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
