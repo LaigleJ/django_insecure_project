@@ -10,3 +10,15 @@ Question:
 Etape 4: Configuration Dev/Prod
     Pourquoi DEBUG doit-il être False en production?
         - DEBUG doit être a false pour des questions de sécurité, pour que les utilisateurs n'aient pas accés aux données sensibles de l'application via la console
+
+Etape 7: Headers sécurisé
+    Qu'est-ce que le clickjacking et comme X_FRAME_OPTIONS protège contre cette attaque?
+        - Le clickjacking est une attaque où quelqu’un te fait cliquer sur un bouton ou lien sans que tu le saches, souvent en superposant ton site sous un site malveillant.
+
+    X_FRAME_OPTIONS protège un site en empêchant qu’il soit affiché dans un iframe sur un autre site.
+
+    DENY → ton site ne peut jamais être dans un iframe.
+
+    SAMEORIGIN → le site peut être dans un iframe seulement sur ton propre domaine.
+
+    Cela empêche les attaques où un site tiers essaierait de te tromper pour cliquer sur quelque chose de dangereux.
